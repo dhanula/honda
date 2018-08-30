@@ -10,6 +10,27 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+
+
         }
+
+        static void methodmytest()
+        {
+
+        }
+
+        static void methodmytest2()
+        {
+
+
+        }
+        static void methodmytest3()
+        {
+
+
+        }
+
     }
+
+
 }

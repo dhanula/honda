@@ -1,0 +1,8 @@
+I:\Documents and Pictures\GitHub\honda\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+I:\Documents and Pictures\GitHub\honda\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+I:\Documents and Pictures\GitHub\honda\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+I:\Documents and Pictures\GitHub\honda\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.CodeAnalysisLog.xml
+I:\Documents and Pictures\GitHub\honda\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.lastcodeanalysissucceeded
+I:\Documents and Pictures\GitHub\honda\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+I:\Documents and Pictures\GitHub\honda\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+I:\Documents and Pictures\GitHub\honda\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
